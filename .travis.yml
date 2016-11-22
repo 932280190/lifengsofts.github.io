@@ -25,6 +25,7 @@ after_script:
 branches:
   only:
     - blog-source
+
 env:
  global:
    - GH_REF: github.com/932280190/lifengsofts.github.io.git
